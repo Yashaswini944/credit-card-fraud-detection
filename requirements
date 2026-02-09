@@ -1,0 +1,22 @@
+## Required Python Packages and Their Purpose
+
+numpy  
+Used for numerical operations, arrays, and mathematical computations.
+
+pandas  
+Handles data loading, cleaning, and manipulation of the credit card dataset.
+
+matplotlib  
+Creates visualizations such as confusion matrices and ROC curves.
+
+seaborn  
+Enhances visualizations with cleaner, more attractive statistical plots.
+
+scikit-learn  
+Provides tools for preprocessing, splitting data, training models, and evaluating performance (accuracy, recall, F1‑score, ROC‑AUC).
+
+xgboost  
+Implements the XGBoost classifier, which often delivers the best performance for fraud detection.
+
+imbalanced-learn  
+Supplies SMOTE and other techniques to handle the severe class imbalance in fraud datasets.
